@@ -3,7 +3,6 @@
 #########################################################
 
 import cv2
-import numpy as np
 
 # Read the image from folder
 img = cv2.imread('einstein.jpg')
